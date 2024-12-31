@@ -150,7 +150,7 @@ async def main():
 ● 𝗖𝗖 𝗙𝗼𝘂𝗻𝗱: {cc_found}
 ● 𝗗𝘂𝗽𝗹𝗶𝗰𝗮𝘁𝗲 𝗥𝗲𝗺𝗼𝘃𝗲𝗱: {dublicate}
 ● 𝗦𝗰𝗿𝗮𝗽𝗲𝗱 𝗕𝘆: <a href="tg://user?id={message.from_user.id}"> {message.from_user.first_name}</a> ♻️ [ {status} ]
-● 𝗕𝗼𝘁 𝗕𝘆: <a href="tg://user?id=6691393517">𝐌𝚁°᭄𝐃𝙰𝚇𝚇 ࿐™</a>
+● 𝗕𝗼𝘁 𝗕𝘆: <a href="tg://user?id=6318673920">Awmtea Polythene</a>
 """
                   document = file_name
                   scr_done = await message.reply_document(
@@ -223,7 +223,7 @@ async def main():
 ● 𝗖𝗖 𝗙𝗼𝘂𝗻𝗱: {cc_found}
 ● 𝗗𝘂𝗽𝗹𝗶𝗰𝗮𝘁𝗲 𝗥𝗲𝗺𝗼𝘃𝗲𝗱: {dublicate}
 ● 𝗦𝗰𝗿𝗮𝗽𝗲𝗱 𝗕𝘆: <a href="tg://user?id={message.from_user.id}"> {message.from_user.first_name}</a> ♻️ [ {status} ]
-● 𝗕𝗼𝘁 𝗕𝘆: <a href="tg://user?id=6691393517">𝐌𝚁°᭄𝐃𝙰𝚇𝚇 ࿐™ 👑</a>
+● 𝗕𝗼𝘁 𝗕𝘆: <a href="tg://user?id=6318673920">Awmtea Polythene 👑</a>
 """
                       document = file_name
                       scr_done = await message.reply_document(
@@ -299,7 +299,7 @@ async def main():
 ● 𝗖𝗖 𝗙𝗼𝘂𝗻𝗱: {cc_found}
 ● 𝗗𝘂𝗽𝗹𝗶𝗰𝗮𝘁𝗲 𝗥𝗲𝗺𝗼𝘃𝗲𝗱: {dublicate}
 ● 𝗦𝗰𝗿𝗮𝗽𝗲𝗱 𝗕𝘆: <a href="tg://user?id={message.from_user.id}"> {message.from_user.first_name}</a> ♻️ [ {status} ]
-● 𝗕𝗼𝘁 𝗕𝘆: <a href="tg://user?id=6691393517">𝐌𝚁°᭄𝐃𝙰𝚇𝚇 ࿐™👑</a>
+● 𝗕𝗼𝘁 𝗕𝘆: <a href="tg://user?id=6318673920">Awmtea Polythene👑</a>
 """
                   document = file_name
                   scr_done = await message.reply_document(
