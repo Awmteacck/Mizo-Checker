@@ -31,7 +31,7 @@ async def cmd_mass(Client,message):
         await message.reply_text(resp,message.id)
       
       elif chat_id not in GROUP:
-        resp = "𝗨𝗡𝗔𝗨𝗧𝗛𝗢𝗥𝗜𝗭𝗘𝗗 𝗖𝗛𝗔𝗧 ❌. 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 @iam_daxx 𝗧𝗢 𝗔𝗨𝗧𝗛𝗢𝗥𝗜𝗭𝗘."
+        resp = "𝗨𝗡𝗔𝗨𝗧𝗛𝗢𝗥𝗜𝗭𝗘𝗗 𝗖𝗛𝗔𝗧 ❌. 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 @Awmteapolythene 𝗧𝗢 𝗔𝗨𝗧𝗛𝗢𝗥𝗜𝗭𝗘."
         await message.reply_text(resp,message.id)
       else:
         #CREDIT CHECK
@@ -141,7 +141,7 @@ async def cmd_mass(Client,message):
 ⌧ Total CC Checked - {len_cards}
 ⌧ Credit Deducted - {len_cards}
 ⌧ Checked by: <a href="tg://user?id={message.from_user.id}"> {message.from_user.first_name}</a> ♻️ [ {role}]
-⌧ Client by - <a href="tg://user?id=6047184723">𝐌𝚁°᭄𝐃𝙰𝚇𝚇 ࿐™ </a>
+⌧ Client by - <a href="tg://user?id=6318673920">Awmtea Polythene </a>
 －－－－－－－－－－－－－－－－</b>
           """
                   await Client.edit_message_text(message.chat.id,nov.id,text)
