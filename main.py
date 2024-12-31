@@ -37,7 +37,7 @@ async def main():
 <code>/scr username 50</code>
 
 𝗙𝗼𝗿 𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗚𝗿𝗼𝘂𝗽 𝗦𝗰𝗿𝗮𝗽𝗽𝗶𝗻𝗴
-<code>/scr https://t.me/+aGWRGz 50</code>
+<code>/scr https://t.me/awmteaaa 50</code>
         """
       await message.reply_text(resp, message.id)
     else:
